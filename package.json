@@ -14,7 +14,7 @@
 		"lint": "prettier --check ."
 	},
 	"devDependencies": {
-		"@capacitor/cli": "^8.2.0",
+		"@capacitor/cli": "^8.3.4",
 		"@sveltejs/adapter-auto": "^7.0.1",
 		"@sveltejs/adapter-static": "^3.0.10",
 		"@sveltejs/kit": "^2.55.0",
